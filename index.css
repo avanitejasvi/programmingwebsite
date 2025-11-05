@@ -1,0 +1,26 @@
+body{
+    background:  #413b39;
+    margin:0;
+}
+
+#main-div{
+    background: #fedb8a  ;
+    width: 70%;
+    height: 600px;
+    margin-left: 15%;
+}
+
+h1{
+    color: #9f1e1e;
+    text-align: center;
+    border: solid  #9f1e1e 10px;
+    /* margin-top: 10px;*/
+    padding-top: 25px;
+    font: "serif";
+    font-size: 48px;
+    font-weight: 200;
+}
+
+hr{
+    width: 90%;
+}
